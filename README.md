@@ -92,7 +92,7 @@
 #### 🌱문제인식  
 
 새해 목표를 꾸준히 지민 성인남녀 28% 달성률이 낮은 것을 볼 수 있습니다. 
-![image](https://user-images.githubusercontent.com/62883948/116650263-d60bad00-a9bb-11eb-8ce4-078bc60f807b.png)
+![image](https://user-images.githubusercontent.com/62883948/116650539-4c101400-a9bc-11eb-8818-492b89f658d7.png)
 ![image](https://user-images.githubusercontent.com/62883948/116650256-d3a95300-a9bb-11eb-9705-f0114bb7505d.png)
 ![image](https://user-images.githubusercontent.com/62883948/116650400-f9365c80-a9bb-11eb-8de4-a32adb343264.png)
 
