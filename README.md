@@ -5,7 +5,7 @@
 <br><br><br>
 ## 🌳 팀원 소개
 <br>
-![image](https://user-images.githubusercontent.com/62883948/116650221-c3917380-a9bb-11eb-8825-f6e4581f89ff.png)
+![image](https://user-images.githubusercontent.com/62883948/116650461-1bc87580-a9bc-11eb-8908-4704d2278b0b.png)
   
 <br><br><br>
 ## 🌳  프로젝트 개요
