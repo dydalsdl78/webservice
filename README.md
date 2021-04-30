@@ -49,9 +49,9 @@
 ![image](https://user-images.githubusercontent.com/62883948/116650252-d1df8f80-a9bb-11eb-8749-f7e335a19012.png)
 </details>
 <br><br> </br></br>
- [🌱 컨벤션](https://www.notion.so/332cddb89bff4354b3aee8bc1d2746a8, "notion")
+ [🌱 컨벤션] (https://www.notion.so/332cddb89bff4354b3aee8bc1d2746a8)
 <br><br>
- [🌱 BE-Api](https://www.notion.so/a4d59235ba6f4795b0c7677414e0d766, "notion")
+ [🌱 BE-Api] (https://www.notion.so/a4d59235ba6f4795b0c7677414e0d766)
 <br><br></br></br>
 
 ### 🌱실행 방법 
