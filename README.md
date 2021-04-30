@@ -5,8 +5,7 @@
 <br><br><br>
 ## 🌳 팀원 소개
 <br>
-
-![팀원최종](/uploads/a20b541badf7d13b0171acbf9e4731a7/팀원최종.PNG)
+![image](https://user-images.githubusercontent.com/62883948/116650221-c3917380-a9bb-11eb-8825-f6e4581f89ff.png)
   
 <br><br><br>
 ## 🌳  프로젝트 개요
@@ -14,7 +13,7 @@
 
 <b>프로젝트 기간 : 2021.01.08 ~ 2021.02.19</b>
 
-![날짜흐름](/uploads/6de90733329b0be62b227abe89a1c8a9/날짜흐름.PNG)
+![image](https://user-images.githubusercontent.com/62883948/116650226-c68c6400-a9bb-11eb-8204-3349e26f682e.png)
 
 - ##### 자신의 도전,목표를 즐겁고 끝까지 달성하고 싶은 사람
 - ##### 같은 목표를  가진 사람들과 함께 외롭지 않게 이루고 싶은 사람
@@ -33,7 +32,7 @@
 
 <br>[프로젝트 공유문서](https://www.notion.so/A303-1d48727b951b41a18886118e55d04fb8)
 <br><br>
-![스크럼](/uploads/23af022e3d6741638aa7bd1651bb2038/스크럼.PNG)
+![image](https://user-images.githubusercontent.com/62883948/116650234-cab88180-a9bb-11eb-802b-cfe5098c4ecc.png)
 
 
 
@@ -42,12 +41,12 @@
 
 ### 🌱 system architecture
 
-![시스템_구조도](/uploads/521385d54611d84f99e3e0572a5edf9f/시스템_구조도.PNG)
+![image](https://user-images.githubusercontent.com/62883948/116650239-cdb37200-a9bb-11eb-9139-a66b5fe694b8.png)
 <br><br>
 <details>
 ### <summary><b>🌱ERD</b></summary>
 
-![erd이미지_최종](/uploads/93dd266aae0b4d6e79298ebca9fecbe8/erd이미지_최종.PNG)
+![image](https://user-images.githubusercontent.com/62883948/116650252-d1df8f80-a9bb-11eb-8749-f7e335a19012.png)
 </details>
 <br><br> </br></br>
  [🌱 컨벤션](https://www.notion.so/332cddb89bff4354b3aee8bc1d2746a8)
@@ -93,14 +92,14 @@
 #### 🌱문제인식  
 
 새해 목표를 꾸준히 지민 성인남녀 28% 달성률이 낮은 것을 볼 수 있습니다. 
-![문제인식수정1](/uploads/7b05c08559365a3cbcfbec1ea3ed5400/문제인식수정1.PNG)
-![문제인식수정2](/uploads/72e9fe7a2d5dcce3c44762bab2811a10/문제인식수정2.PNG)
-![해결방안](/uploads/02e6e22d840c07803e810f7097312b95/해결방안.PNG)
+![image](https://user-images.githubusercontent.com/62883948/116650256-d3a95300-a9bb-11eb-9705-f0114bb7505d.png)
+![image](https://user-images.githubusercontent.com/62883948/116650263-d60bad00-a9bb-11eb-8ce4-078bc60f807b.png)
+![image](https://user-images.githubusercontent.com/62883948/116650400-f9365c80-a9bb-11eb-8de4-a32adb343264.png)
 
 
 #### 🌱주요 서비스 기능
-![핵심기능](/uploads/ae84ca71747ea6b30661fd8c802af08a/핵심기능.PNG)
-![서비스_기능](/uploads/17b64fcc5f11b79c63f2acc7dcd5bb03/서비스_기능.PNG)
+![image](https://user-images.githubusercontent.com/62883948/116650404-fc314d00-a9bb-11eb-8d04-f344f0ca568f.png)
+![image](https://user-images.githubusercontent.com/62883948/116650411-fdfb1080-a9bb-11eb-8aa6-e03dd03e279a.png)
 
 <br><br><br>
 #### 🌱기능
