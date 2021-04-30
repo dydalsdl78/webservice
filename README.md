@@ -5,7 +5,8 @@
 <br><br><br>
 ## 🌳 팀원 소개
 <br>
-![팀원최종](https://user-images.githubusercontent.com/62883948/116650581-66e28880-a9bc-11eb-9014-2ca10329da78.PNG)
+
+![image](https://user-images.githubusercontent.com/62883948/116650750-cd67a680-a9bc-11eb-9b5a-5eb166810d0c.png)
   
 <br><br><br>
 ## 🌳  프로젝트 개요
@@ -49,9 +50,9 @@
 ![image](https://user-images.githubusercontent.com/62883948/116650252-d1df8f80-a9bb-11eb-8749-f7e335a19012.png)
 </details>
 <br><br> </br></br>
- [🌱 컨벤션] (https://www.notion.so/332cddb89bff4354b3aee8bc1d2746a8)
+ [🌱 컨벤션](https://www.notion.so/332cddb89bff4354b3aee8bc1d2746a8)
 <br><br>
- [🌱 BE-Api] (https://www.notion.so/a4d59235ba6f4795b0c7677414e0d766)
+ [🌱 BE-Api](https://www.notion.so/a4d59235ba6f4795b0c7677414e0d766)
 <br><br></br></br>
 
 ### 🌱실행 방법 
